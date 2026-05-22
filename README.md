@@ -25,3 +25,4 @@ A comprehensive Bill of Materials (BOM) Management Module for manufacturing/proc
 ```bash
 git clone <repository-url>
 cd bom-management
+# bom-management-system
