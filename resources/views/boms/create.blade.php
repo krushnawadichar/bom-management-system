@@ -67,7 +67,7 @@
             </div>
             <div class="">
                 <p>Download a sample BOM template to understand the expected format:</p>
-                <a href="{{ asset('samples/sample-bom-template.xlsx') }}" class="btn btn-sm btn-outline-success">
+                <a href="{{ asset('samples/fd.xlsx') }}" class="btn btn-sm btn-outline-success">
                     <i class="fas fa-download"></i> Download Sample Template
                 </a>
             </div>
